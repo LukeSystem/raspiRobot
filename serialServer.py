@@ -3,7 +3,7 @@
 # ===============================================
 # serialServer.py
 #	s.kawano @ lukesystem Inc.
-#	Ver.001 2021/5/12	初版
+#	Ver.001 2022/12/4	初版
 #	機能
 #		Arduino と Scratch間のデータ連携
 #		1.Arduino アナログポート0～7　→　Scratch	"http://localhost:38601/analogRead?port=" + No;

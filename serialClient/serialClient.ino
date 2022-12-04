@@ -27,7 +27,7 @@ unsigned long old_time_data = 0;
 *	モーター制御(Arduino Romeo V2 all in one controller)
 *		https://akizukidenshi.com/catalog/g/gM-07045/
 *
-*		モータードライバにより、接続ポートや操作方法を変更して下さい。
+*		モータードライバに合わせて変更が必要です。
 **/
 void setRomeoMotor(int motorId, int speed)
 {
