@@ -5,6 +5,10 @@ Arduinoで動作するロボット（以下、Arduinoロボ）のプログラム
 Arduinoロボは、NPO法人岡山ロボット技術子供育成協会が講習会で利用しているものと同等です。　このArduinoロボにRaspberryPI4を組み合わせて利用します。  
 https://orja.org/
 
+![image](https://user-images.githubusercontent.com/98453574/206096896-7ca5f9d6-7b1b-41fb-b91b-211ed7f9ca88.png)
+![image](https://user-images.githubusercontent.com/98453574/206096926-e444788f-7654-4bb6-93b6-b3281f53e46f.png)
+
+
 ## 機器の構成  
 
 ![image](https://user-images.githubusercontent.com/13915550/205480286-6dc652c7-ebb1-4f3c-a0a5-13ade80a2dac.png)
